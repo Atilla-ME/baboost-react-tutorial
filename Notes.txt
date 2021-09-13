@@ -4,6 +4,11 @@
 * React ext : ES7 React/Redux/GraphQL/React-Native 
 
 
+Arrow Functions
+https://www.w3schools.com/js/js_arrow_function.asp
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions?retiredLocale=tr
+
+
 
 Templates
 Uygulama ( Gourmet Catering Template )
@@ -12,4 +17,9 @@ https://www.w3schools.com/w3css/w3css_templates.asp
 html to jsx
 https://transform.tools/html-to-jsx
 https://magic.reactjs.net/htmltojsx.htm
+
+Ödev - 1
+Array function makalelerine bak
+neden key hatası alıyoruz ( maplerde) onu çöz
+fiyatı 8 den yüksek olan yemekleri kırmızı renkte göster
 

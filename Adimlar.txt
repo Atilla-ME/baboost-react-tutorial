@@ -1,0 +1,7 @@
+* npx create-react-app my-app ile bir react projesi oluştur
+* app.js de fazlalıkları ( react in default templateni temizle )
+* components adında bir klasör aç
+* style bloğu ile cdn linkini index.html e yerleştir
+* componentlerini tek tek oluştur ( navbar, header, content ( contentin içerisindeki diğer component ler) vb.)
+* componentlerin içerisine html i yapıştırırken tool kullan ( magic tool vb. )
+* html deki img source larını değiştirmeyi unutma

@@ -1,0 +1,15 @@
+* Component isimlerini büyük harfle başlat!
+* rfce kısayoluyla component oluşturulabilir
+* Fragment kullanımı önemli!
+* React ext : ES7 React/Redux/GraphQL/React-Native 
+
+
+
+Templates
+Uygulama ( Gourmet Catering Template )
+https://www.w3schools.com/w3css/w3css_templates.asp
+
+html to jsx
+https://transform.tools/html-to-jsx
+https://magic.reactjs.net/htmltojsx.htm
+

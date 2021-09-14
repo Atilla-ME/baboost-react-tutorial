@@ -1,15 +1,17 @@
-import JsxEventSample from "./jsxSamples/JsxEventSample";
-import Product from "./props/Product";
-import StateSample from "./stateHook/StateSample";
-import StateSample2 from "./stateHook/StateSample2";
+import StateErrorSample from "./stateHook/StateErrorSample";
+
 
 
 function App() {
 
   return (
     <>
+      <StateErrorSample></StateErrorSample>
+      {/* <StateInputArraySample></StateInputArraySample> */}
+      {/* <StateArray2Sample></StateArray2Sample> */}
+      {/* <StateArraySample></StateArraySample> */}
       {/* <StateSample></StateSample> */}
-      <StateSample2></StateSample2>
+      {/* <StateSample2></StateSample2> */}
       {/* <Product></Product> */}
       {/* <JsxEventSample></JsxEventSample> */}
     </>

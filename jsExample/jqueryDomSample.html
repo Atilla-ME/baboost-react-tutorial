@@ -9,18 +9,19 @@
 </head>
 <body>
     <h1>USA</h1>
+    <input type='text' value='Çağatay' onkeypress="changeInput()" />
     <button onclick="change()">Change</button>
 </body>
 </html>
 <script>
 
     function change(){
-        
-
-
-
-
         $('h1').text('Turkey');
+    }
+
+
+    function changeInput(){
+        console.log(this);
     }
 
 </script>

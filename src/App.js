@@ -1,24 +1,17 @@
-import IfElseSample from "./jsxSamples/IfElseSample";
-import Mapsample from "./jsxSamples/Mapsample";
-import Content from "./templates/template-1/Content";
-import Footer from "./templates/template-1/Footer";
-import Header from "./templates/template-1/Header";
-import Navbar from "./templates/template-1/Navbar";
-
+import JsxEventSample from "./jsxSamples/JsxEventSample";
+import Product from "./props/Product";
+import StateSample from "./stateHook/StateSample";
+import StateSample2 from "./stateHook/StateSample2";
 
 
 function App() {
-  
 
   return (
     <>
-      {/* <Navbar></Navbar>
-      <Header></Header>
-      <Content></Content>
-      <Footer></Footer> */}
-
-      <IfElseSample></IfElseSample>
-      <Mapsample></Mapsample>
+      {/* <StateSample></StateSample> */}
+      <StateSample2></StateSample2>
+      {/* <Product></Product> */}
+      {/* <JsxEventSample></JsxEventSample> */}
     </>
 
   )

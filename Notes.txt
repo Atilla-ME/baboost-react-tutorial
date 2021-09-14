@@ -19,7 +19,14 @@ https://transform.tools/html-to-jsx
 https://magic.reactjs.net/htmltojsx.htm
 
 Ödev - 1
-Array function makalelerine bak
+Arrow function makalelerine bak
 neden key hatası alıyoruz ( maplerde) onu çöz
 fiyatı 8 den yüksek olan yemekleri kırmızı renkte göster
+
+
+React key 
+https://stackoverflow.com/questions/28329382/understanding-unique-keys-for-array-children-in-react-js
+https://stackoverflow.com/questions/28329382/understanding-unique-keys-for-array-children-in-react-js/43892905#43892905
+https://kentcdodds.com/blog/understanding-reacts-key-prop
+
 
